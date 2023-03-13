@@ -19,7 +19,8 @@ class _SetStatePageState extends State<SetStatePage> {
   final heightEC = TextEditingController();
   double imc = 0.0;
 
-  Future<void> _calculateIMC(double weight, double height) async {
+  Future<void> _calculateIMC(
+      {required double weight, required double height}) async {
     setState(() {
       imc = 0;
     });
@@ -113,7 +114,7 @@ class _SetStatePageState extends State<SetStatePage> {
                       final double height =
                           formatter.parse(heightEC.text) as double;
 
-                      _calculateIMC(weight, height);
+                      _calculateIMC(weight: weight, height: height);
                     }
                   },
                   child: const Text('Calcular IMC'),
