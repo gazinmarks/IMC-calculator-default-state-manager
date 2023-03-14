@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:imc_default_state_manager/blocScrums/bloc_scrums_page.dart';
+import 'package:imc_default_state_manager/blocScrum/bloc_pattern_page.dart';
 import 'package:imc_default_state_manager/changeNotifier/change_notifier_page.dart';
 import 'package:imc_default_state_manager/home_page.dart';
 import 'package:imc_default_state_manager/setState/set_state_page.dart';
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         '/set_state': (context) => const SetStatePage(),
         '/change_notifier': (context) => const ChangeNotifierPage(),
         '/value_notifier': (context) => const ValueNotifierPage(),
-        '/bloc_scrums': (context) => const BlocScrumsPage(),
+        '/bloc_pattern': (context) => const BlocPatternPage(),
       },
     );
   }

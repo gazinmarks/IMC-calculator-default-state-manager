@@ -33,9 +33,9 @@ class HomePage extends StatelessWidget {
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.of(context).pushNamed('/bloc_scrums');
+                Navigator.of(context).pushNamed('/bloc_pattern');
               },
-              child: const Text('Bloc(Scrums)'),
+              child: const Text('Bloc Pattern'),
             ),
           ],
         ),
