@@ -1,16 +1,10 @@
-# imc_default_state_manager
+# Calculadora IMC 
 
-A new Flutter project.
+## Projeto simples realizado com os gerenciadores de estado nativos do Flutter.
 
-## Getting Started
+O intuito foi usar todos os gerenciadores de estado nativos, SetState, ChangeNotifier, ValueNotifier e Bloc Pattern, sendo assim um projeto simples para estudo.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Telas
+![Captura de tela 2023-03-14 123259](https://user-images.githubusercontent.com/115508392/225056504-481f29fd-cf8e-4c16-af60-1a3eb74cdff4.png)
+![Captura de Tela (2)](https://user-images.githubusercontent.com/115508392/225056528-54fcf25e-6837-4d6d-87f3-d4453eaae235.png)
+![Captura de Tela (3)](https://user-images.githubusercontent.com/115508392/225056552-64d5c455-5386-47da-aa54-2bc1a13fed73.png)
