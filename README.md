@@ -5,6 +5,6 @@
 O intuito foi usar todos os gerenciadores de estado nativos, SetState, ChangeNotifier, ValueNotifier e Bloc Pattern, sendo assim um projeto simples para estudo.
 
 ## Telas
-![Captura de tela 2023-03-14 123259](https://user-images.githubusercontent.com/115508392/225056504-481f29fd-cf8e-4c16-af60-1a3eb74cdff4.png)
-![Captura de Tela (2)](https://user-images.githubusercontent.com/115508392/225056528-54fcf25e-6837-4d6d-87f3-d4453eaae235.png)
-![Captura de Tela (3)](https://user-images.githubusercontent.com/115508392/225056552-64d5c455-5386-47da-aa54-2bc1a13fed73.png)
+![Captura de tela 2023-03-14 123259](https://user-images.githubusercontent.com/115508392/225057169-9f9dbe4d-bd07-4aab-b0b4-f3c0a95af705.png)
+![Captura de Tela (2)](https://user-images.githubusercontent.com/115508392/225057192-8a7bb495-0606-4c4f-8404-3a6687318fbf.png)
+![Captura de Tela (3)](https://user-images.githubusercontent.com/115508392/225057205-f692cb96-0fb3-4ef4-9a6a-1239635c0850.png)
